@@ -1,0 +1,13 @@
+
+@media only screen and (max-width:600px){
+    #date{
+        margin-left: 6px;
+        border: 2px solid black;
+       width: 90px;
+       height: 120px;
+       text-align: center;
+       padding: 5px;
+       background-color: black;
+       color: white;border-radius: 12px;
+    }
+}

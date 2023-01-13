@@ -1,0 +1,41 @@
+#fliter{
+    /* background-color: black; */
+    background-image: linear-gradient(rgb(248, 191, 191),blueviolet,orange,yellow);
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+  
+   
+}
+#h3{
+
+color: white;
+display: flex;
+
+}
+#f1{
+margin-left: 8px;
+
+}
+#yer{
+    color: white;
+    
+    margin-right: 730px;
+    font-style: italic;
+text-shadow: 2px 2px 2px rgb(185, 14, 14);
+
+
+}
+
+h4{
+    color: aliceblue;
+    margin-top: 40px;
+    font-size: medium;
+    text-align: center;
+    text-shadow: 10px 10px 7px red;
+}
+select{
+    background-image: linear-gradient(rgb(178, 226, 245),rgb(211, 73, 158));
+   color: rgb(13, 15, 14);
+}
